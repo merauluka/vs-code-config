@@ -62,7 +62,7 @@
     "prettier.requireConfig": true,
     "workbench.colorTheme": "Purrp",
     "editor.fontSize": 12,
-    "editor.formatOnPaste": true,
+    "editor.formatOnPaste": false,
     "[json]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
